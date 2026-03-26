@@ -8,7 +8,7 @@ void toUpperCase(char word[], int n){
         char ch = word[i];
         if(ch>='A' && ch<='Z'){
             continue;
-
+            
         }
         else{
            word[i]  = ch-'a'+'A';

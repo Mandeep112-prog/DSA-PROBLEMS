@@ -18,3 +18,4 @@ int main(){
     isPalindrome(word, strlen(word));
     return 0;
 }
+

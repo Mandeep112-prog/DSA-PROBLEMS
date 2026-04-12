@@ -1,3 +1,4 @@
+// for 2d dynamic memory allocation
 #include<iostream>
 using namespace std;
 int main(){
@@ -6,13 +7,13 @@ int main(){
     cin>>rows;
     cout<<"Enter cols : ";
     cin>>cols;
-//dynamix memory allocation
-    int**matrix = new int*[rows];
+
+    //dynamic memory allocation
+    int **matrix = new int*[rows];
     for(int i=0; i<rows; i++){
         matrix[i] = new int[cols];
     }
-
-    //data store and print
+    //data store and print 
     int x=1;
     for(int i=0; i<rows; i++){
         for(int j=0; j<cols; j++){
@@ -21,8 +22,7 @@ int main(){
         }
         cout<<endl;
     }
-
-    //explicitly memory delete(very important)
+    //explicitly matrix delete (very important)
     for(int i=0; i<rows; i++){
         delete[]matrix[i];
     }

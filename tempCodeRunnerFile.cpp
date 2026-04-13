@@ -1,1 +1,2 @@
-/ fibonacci series time complexity O(n) 
+cout<<endl;
+    // cout<<gitIthBit(4,0);

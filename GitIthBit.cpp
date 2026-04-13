@@ -3,7 +3,7 @@ using namespace std;
 
 int gitIthBit(int num , int i){
     int bitmask = 1<<i;
-    if(!(num&bitmask)){
+    if((num&bitmask)==0){
         return 0;
     }
     else{

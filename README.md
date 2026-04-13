@@ -1,11 +1,6 @@
-this folder is created for dsa-problem solving
+# 🚀 DSA Problems by Mandeep
 
-Problem 1: find greatest number in the array.<br>
-Problem 2: Linear search<br>
-problem 3: Reverse array with extra space<br>
-problem 4: Reverse array without extra space<br>
-problem 5: Binary search<br>
-problem 6: Print sub array<br>
-problem 7: Sub array sum<br>
-problem 8: Kadan's algo for maxsubarraysum TC=O(n)<br>
-problem 9: Buy & Shell Stock Problem
+## 📌 Topics Covered:
+- Arrays
+- Sorting
+- Searching

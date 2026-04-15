@@ -10,7 +10,7 @@ void toUpperCase(char word[], int n){
             continue;
             
         }
-        else{
+        else{ 
            word[i]  = ch-'a'+'A';
         }
     }

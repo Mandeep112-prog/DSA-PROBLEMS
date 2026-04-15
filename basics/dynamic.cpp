@@ -5,7 +5,7 @@ void func()
     int *ptr = new int;
     *ptr = 5;
     cout << *ptr;
-    delete ptr;
+    delete ptr;//delete explicitly
 }
 int main()
 {

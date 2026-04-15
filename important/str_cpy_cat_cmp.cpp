@@ -14,7 +14,7 @@ int main(){
     char str4[100] = "yadav";
     strcat(str3,str4);
     cout<<str3;
-    cout<<endl;
+    cout<<endl; 
 
     //for cmp string function - it will compare value Output will be - 0 , negative , positive
     char str1[100] = "mandeep";

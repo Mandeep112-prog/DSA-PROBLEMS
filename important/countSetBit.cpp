@@ -8,13 +8,13 @@ void countSetBit(int num){
     while(num>0){
         int lastDigit = num & 1;
         count += lastDigit;
-        num = num>>1;
+        num = num>>1; 
     }
     cout<<"Count = "<<count<<endl;
 }
 
 int main(){
-    countSetBit(15);
+    countSetBit(15); 
     return 0;
 
 }

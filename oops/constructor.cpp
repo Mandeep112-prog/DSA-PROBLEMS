@@ -21,9 +21,9 @@ class Employee{
     //custome copy constructor
     Employee(Employee &original){
         cout<<"Copying original  to new..\n";
-        this->EmpName = original.EmpName;
-        this->Department = original.Department;
-        this->salary = original.salary;
+        EmpName = original.EmpName;
+        Department = original.Department;
+        salary = original.salary;
     }
 
     void getEmpDetail(){

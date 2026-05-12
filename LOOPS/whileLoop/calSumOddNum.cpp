@@ -1,4 +1,4 @@
-//calculate sum of first 1 to N odd numbers
+//calculate sum of first 1 to N odd numbers....
 
 #include<iostream>
 using namespace std;

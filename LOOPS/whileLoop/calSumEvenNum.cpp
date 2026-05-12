@@ -1,3 +1,5 @@
+//calculate sum of first 1 to N even numbers
+
 #include<iostream>
 using namespace std;
 

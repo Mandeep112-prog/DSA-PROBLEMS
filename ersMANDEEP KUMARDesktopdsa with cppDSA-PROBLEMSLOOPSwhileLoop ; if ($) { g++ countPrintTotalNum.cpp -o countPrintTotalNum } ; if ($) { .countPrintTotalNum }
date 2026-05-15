@@ -1,0 +1,115 @@
+[33m2497d94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m print product of all given number
+[33m40c171c[m Destructor
+[33meda4b58[m calculate sum of odd numbers
+[33mf5298d7[m calculate sum of 1 to N odd number
+[33m77349ee[m calculate sum odd numbers
+[33m14ff819[m calculate sum of 1 to N odd number
+[33m342e724[m calculate sum of 1 to N even numbers
+[33mffa0bd1[m calculate sum of first natural numbers
+[33mebc8f88[m Calculate sum of 1 to N even numbers
+[33m4348797[m calculate first N natural numbers
+[33m0837cd3[m Deep copu problem understanding code
+[33m77aecfc[m shallow copy problem
+[33mdfb8923[m table of number
+[33m297c5cc[m printing Odd number btw 1 and 100
+[33m0059567[m print even numbers btw 1 and 100
+[33md7365fe[m print numbers in reverse order
+[33m30f037b[m Printing number in reverse order
+[33m9f38fc5[m print numbers using whileLoop
+[33m681d919[m constructo
+[33m42278d1[m add custome copy constructor
+[33m28ccbca[m constructor calling code
+[33mda40513[m add Oop's concept in README.md
+[33mbc2bbfa[m copy constructor
+[33m5c0a1e0[m constructor some operation
+[33mb4e59d5[m construct using this pointer changes
+[33me0d51eb[m basic constructor using this pointer
+[33mcb80068[m basic constructor for understanding
+[33md1b682f[m Getter and setter method
+[33me0a09e2[m selection sort
+[33maebcf8a[m bubble sort
+[33m2eee2ac[m isPalindrome
+[33mf4ccfe2[m adfsd
+[33m29da2a6[m basic oops program
+[33mfaa24ec[m Delete important/fastExponential.exe
+[33md60900d[m Delete important/countSetBit.exe
+[33m694a514[m Delete basics/update.exe
+[33mcb7bd02[m Oops first program
+[33m9587270[m exponential problem using bitwise opt
+[33m53d8526[m countSetBit problem using bitwise operator
+[33m30e8362[m Delete basics/powerOf2.exe
+[33m999b3da[m  n
+[33md545491[m bitwise operator:powerOf2
+[33m77dae5c[m refactor: restructure repo, rename files, and remove executables
+[33md8b5e27[m 2D_vector
+[33m51aa5bc[m Delete practice/clearIthTerm.exe
+[33m6eff3f1[m clear ith term usin g bitwise operator
+[33me17014a[m StairCase Search
+[33m1c74e28[m chore: clean repo and update gitignore
+[33m5275f6d[m Delete UpperLowerCaseConversion.exe
+[33m53f1821[m Delete array2D.exe
+[33m93d4a06[m Delete countingSort.exe
+[33m03843ee[m Delete digSum.exe
+[33md9479b0[m Delete dynamic.exe
+[33m914b72a[m Delete fibonacci.exe
+[33m06c76a7[m Delete insertionSort.exe
+[33mb16aea6[m Delete isPalindrom.exe
+[33me120786[m Delete problem1.exe
+[33me408b5b[m Delete problem2.exe
+[33me3e1bf5[m Delete problem3.exe
+[33m0149ba0[m Delete problem4.exe
+[33m3d3e790[m Delete problem5.exe
+[33m73302c4[m Delete problem6.exe
+[33mf73ffed[m Delete problem7.exe
+[33m927cb65[m Delete problem8.exe
+[33mf87f829[m Delete problem9.exe
+[33md9e4ede[m Delete reverseCharacter.exe
+[33m777b7d5[m Delete setIthBit.exe
+[33m89d53bc[m Delete str_cpy_cat_cmp.exe
+[33m875a712[m Delete uniqueLetter.exe
+[33m699ad24[m Delete TwoD_Arr.exe
+[33m1d060bf[m Delete GitIthBit.exe
+[33mea177e9[m Delete EvenOdd_usingBitwiseOptr.exe
+[33m6569745[m Delete BubbleSort10.exe
+[33m75be5df[m Delete BubbleSort.exe
+[33mc16c9f8[m Delete BasicVector.exe
+[33m86fa030[m Delete 2D_vector.exe
+[33mf63bda3[m remove .exe file
+[33m0c0e9c7[m fix
+[33m0187367[m set ith term using or operator
+[33mc65007c[m git ith term find using bitwise operator
+[33mc6736c6[m using Bitwise operator EvenOdd
+[33mb5db5bf[m setup gitignore
+[33m9d335e9[m 2D vector array
+[33mb750b92[m 2D vectro array
+[33ma815e39[m remove .exe file
+[33ma76ce0f[m Vector pair sum problem
+[33mca716b4[m Basic vector program
+[33m269a709[m 2D dynamic memory allocation
+[33m4edb9ad[m dynamic memory allocation
+[33m13977ee[m Create static.cpp
+[33mf04e411[m countingSort
+[33mf954759[m insertion sort
+[33mf7d8f88[m to check valid anagram problem
+[33m01d8bca[m find unique character in string
+[33m8003243[m String functions(strcpy,cat,cmp)
+[33m93bbb42[m reverse char , isPalindrome
+[33mc8b5331[m Upper and Lower case conversion
+[33mc7028b2[m staireCase for searching key in 2D array
+[33m7bc8395[m diagonal sum problem
+[33m0e1ef95[m fibonacci series
+[33mf99c6c1[m  problems
+[33mb7ebbef[m Bubble Sort
+[33m91736e0[m Bubble Sort
+[33mb54c64d[m Buy & Shell Stock Problem
+[33m25abb58[m Kadan's algo for maxsubarraysum TC=O(n)
+[33m27f1ec0[m SubArraySum
+[33mb1d4b44[m PrintSubArray
+[33m795d9fa[m reverse array and binary search
+[33m9f53169[m change for next line
+[33m3792b7f[m Reverse array with extra space
+[33mcf0c431[m linear Search
+[33m13c3022[m Greatest Number in array
+[33mc0c8cca[m hello world
+[33m9ddb904[m created for dsa problem solving
+[33m0e960c0[m dsa problem 1

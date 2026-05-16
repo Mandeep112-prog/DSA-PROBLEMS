@@ -9,6 +9,8 @@ class Animal {
         cout<<"breaths\n";
     }
 };
+
+
 class Mammal : public Animal{
     public:
     string bloodType;

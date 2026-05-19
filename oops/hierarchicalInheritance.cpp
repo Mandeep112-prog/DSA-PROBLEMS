@@ -1,3 +1,5 @@
+//hierarchical inheritance
+
 #include<iostream>
 using namespace std;
 
@@ -27,6 +29,8 @@ int main(){
     Fish f1;
     b1.eat();
     b1.fly();
+
+    
     f1.swim();
     f1.breathe();
     return 0;

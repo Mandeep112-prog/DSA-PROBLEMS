@@ -12,7 +12,7 @@ class Complex {
     void showNum(){
         cout<<real<<"+"<<imaginary<<"i\n";
     }
-
+//operator overloading 
     void operator - (Complex &c2){
         int resReal = this->real - c2.real;
         int resImaginary = this->imaginary - c2.imaginary;

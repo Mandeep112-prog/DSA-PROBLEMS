@@ -83,6 +83,5 @@ int main(){
     ll.print(ll.head);
     cout<<"Second list : ";
     ll.print(secondHead);
-
     return 0;
 }

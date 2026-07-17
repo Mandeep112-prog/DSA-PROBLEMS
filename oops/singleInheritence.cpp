@@ -19,6 +19,6 @@ class Fish : public Animal {
 int main(){
     Fish f1;
     f1.swim();
-   f1.eat();
+    f1.eat();
     return 0;
 }

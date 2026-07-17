@@ -46,7 +46,7 @@ class List{
 //delete node from the front of the linklist
   void pop_front(){
     if(head == NULL){
-        cout<<"Linklist is empty";
+        cout<<"linklist is empty";
         return;
     }
     else{
@@ -56,7 +56,6 @@ class List{
         delete temp;
     }
   }
-
     void print(){
         Node*temp = head;
         while(temp!=NULL){
@@ -76,6 +75,7 @@ int main(){
     ll.push_back(5);
     ll.push_back(6);
     ll.pop_front();//2->3->4->5->6
+    ll.print();
     ll.pop_front();//3->4->5->6
     ll.print();
 

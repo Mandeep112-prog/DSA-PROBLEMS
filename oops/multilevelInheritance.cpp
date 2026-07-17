@@ -1,3 +1,4 @@
+//multilevel inheritance
 #include<iostream>
 using namespace std;
 class Animal {
@@ -10,7 +11,7 @@ class Animal {
     }
 };
 
-
+ 
 class Mammal : public Animal{
     public:
     string bloodType;

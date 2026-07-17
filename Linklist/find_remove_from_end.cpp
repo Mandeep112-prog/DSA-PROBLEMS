@@ -69,7 +69,7 @@ public:
     void fint_remove_from_end(int n){
         Node* prev = head;
         int size = getSize();
-        for(int i=0; i<(size-n-1); i++)
+        for(int i=1; i<(size-n); i++)
         {
             prev = prev->next;
         }

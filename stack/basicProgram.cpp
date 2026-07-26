@@ -1,3 +1,4 @@
+//using vector implement stack
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -6,7 +7,7 @@ class Stack{
     public:
     vector<int>vec;
     void push(int val){
-        vec.push_back(val);
+            vec.push_back(val);
     }
     void pop(){
         if(isEmpty()){

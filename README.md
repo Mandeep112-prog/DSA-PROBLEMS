@@ -8,3 +8,4 @@
 - Recursion
 - Loops
 - Linklist
+- Stack
